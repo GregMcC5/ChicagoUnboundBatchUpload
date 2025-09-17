@@ -34,7 +34,7 @@ This tool was developed by Gregory McCollum, the D'Angelo Law Library's Metadata
    ```bash
    python csv_to_xls_gui_w_preprocess.py
 
-   - The GUI will prompt you to:
+  - The GUI will prompt you to:
         - Select the publication type
         - Choose the LawCites CVS input file.
         - Specify output XLS file location.
@@ -50,4 +50,5 @@ This tool was developed by Gregory McCollum, the D'Angelo Law Library's Metadata
 ## Contact
 
 Please contact Gregory McCollum at gregmcc@uchicago.edu for support.
+
 
