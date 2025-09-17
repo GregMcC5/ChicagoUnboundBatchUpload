@@ -28,9 +28,9 @@ This tool was developed by Gregory McCollum, the D'Angelo Law Library's Metadata
 ## Usage
 
 1. **Prepare Input:**
-   - Export your LawCites data as a CSV file.
+  - Export your LawCites data as a CSV file.
 
-2. **Run the Tool:**
+3. **Run the Tool:**
    ```bash
    python csv_to_xls_gui_w_preprocess.py
 
@@ -41,14 +41,15 @@ This tool was developed by Gregory McCollum, the D'Angelo Law Library's Metadata
         - Enable link validation (if desired)
 
 3. **Review Outputs:**
-    - The output XLS will be saved to your specified location.
-    - Navigate to the Batch Upload interface in the the Chicago Unbound page corresponding to the item type you are uploading to.
-    - Under the "Upload spreadsheet" option, click "Choose File" and select the specified XLS output file for upload.
+  - The output XLS will be saved to your specified location.
+  - Navigate to the Batch Upload interface in the the Chicago Unbound page corresponding to the item type you are uploading to.
+  - Under the "Upload spreadsheet" option, click "Choose File" and select the specified XLS output file for upload.
 
-    - A separate CSV file (review.csv) will list entries flagged for review (potential duplicates, encoding errors, etc).
+  - A separate CSV file (review.csv) will list entries flagged for review (potential duplicates, encoding errors, etc).
 
 ## Contact
 
 Please contact Gregory McCollum at gregmcc@uchicago.edu for support.
+
 
 
